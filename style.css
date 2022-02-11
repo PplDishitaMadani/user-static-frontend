@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.id{
+    width: 200px;
+}
+
+.get-users, .get-user-by-id{
+    font-weight: bold;
+}
